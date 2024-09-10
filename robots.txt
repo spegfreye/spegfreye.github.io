@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spegfreye.github.io/sitemap.html.gz
+Sitemap: https://spegfreye.github.io/app/sitemap.html.gz
+Sitemap: https://spegfreye.github.io/assets/sitemap.html.gz
+Sitemap: https://spegfreye.github.io/css/sitemap.html.gz
+Sitemap: https://spegfreye.github.io/includes/sitemap.html.gz
+Sitemap: https://spegfreye.github.io/item/sitemap.html.gz
+Sitemap: https://spegfreye.github.io/src/sitemap.html.gz
